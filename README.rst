@@ -1,5 +1,5 @@
 ==========================
-Welcome to django-allauth!
+Welcome to django-authsystem!
 ==========================
 
 .. |ci| image:: https://img.shields.io/github/actions/workflow/status/pennersr/django-allauth/ci.yml.png
@@ -36,24 +36,6 @@ Welcome to django-allauth!
 Integrated set of Django applications addressing authentication,
 registration, account management as well as 3rd party (social) account
 authentication.
-
-Home page
-  https://allauth.org/
-
-Source code
-  http://github.com/pennersr/django-allauth
-
-Mailing list
-  http://groups.google.com/group/django-allauth
-
-Documentation
-  https://docs.allauth.org/en/latest/
-
-Stack Overflow
-  http://stackoverflow.com/questions/tagged/django-allauth
-
-Demo
-  https://django.demo.allauth.org
 
 .. end-welcome
 
@@ -141,23 +123,3 @@ Features
 
 .. end-features
 
-
-Commercial Support
-==================
-
-.. begin-support
-
-Commercial support is available. If you find certain functionality missing, or
-require assistance on your project(s), please contact us: info@intenct.nl.
-
-.. end-support
-
-
-Cross-Selling
-=============
-
-If you like this, you may also like:
-
-- django-trackstats: https://github.com/pennersr/django-trackstats
-- netwell: https://github.com/pennersr/netwell
-- Shove: https://github.com/pennersr/shove
